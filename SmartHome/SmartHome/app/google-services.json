@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1088985430569",
+    "firebase_url": "https://smart-home-android-studio-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-home-android-studio",
+    "storage_bucket": "smart-home-android-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088985430569:android:8a0cc1719c2b00b4fc7a38",
+        "android_client_info": {
+          "package_name": "com.venus.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088985430569-99dv6a5pg9cbu4g3vtu6efhmr4jaeoqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venus.smarthome",
+            "certificate_hash": "1b795a291c0de1a864cbe645f4c5e51a0dcaa941"
+          }
+        },
+        {
+          "client_id": "1088985430569-1s6qjebjbno9qfoc1lurdvga3apa7jv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ewByFq4uz05WEAJrUy2mB2V4bN4fSas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088985430569-1s6qjebjbno9qfoc1lurdvga3apa7jv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
